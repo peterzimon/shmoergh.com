@@ -5,7 +5,7 @@
 
 body {
     height: 100vh;
-    background: #000;
+    background: #fff;
 }
 
 #content {
@@ -31,12 +31,8 @@ h1 span.sucks {
 }
 
 img {
-    background: green;
-    opacity: 0.08;
-    transform: scaleX(-1);
-}
-
-img:hover {
-    opacity: 1;
-    transform: unset;
+    /* max-width: 1200px; */
+    max-height: 70vh;
+    margin-top: -10vh;
+    max-width: 80vw;
 }
