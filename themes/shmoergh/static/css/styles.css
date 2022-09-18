@@ -32,11 +32,25 @@ body {
     justify-content: center;
 }
 
-.logo svg {
+.logo .full-logo {
     width: auto;
     height: auto;
     max-height: 3vh;
     margin-top: -0.5vw;
+}
+
+.logo .gyeszno {
+    display: none;
+}
+
+.logo:hover .gyeszno {
+    display: block;
+    max-width: 50vw;
+    max-height: 40vh;
+}
+
+.logo:hover .full-logo {
+    display: none;
 }
 
 .logo.pink {
@@ -76,7 +90,7 @@ body {
         display: none;
     }
 
-    .logo svg {
+    .logo .full-logo {
         max-height: 4vh;
     }
 }
@@ -87,7 +101,7 @@ body {
         grid-template-rows: repeat(4, 1fr);
     }
 
-    .logo svg {
+    .logo .full-logo {
         max-width: 60vw;
         max-height: unset;
         height: auto;
