@@ -44,6 +44,11 @@ body {
     color: #62FFDD;
 }
 
+.logo.purple {
+    background: #9365DF;
+    color: #62FFDD;
+}
+
 .logo.mint {
     background: #72EFD4;
     color: #251221;
@@ -56,7 +61,7 @@ body {
 
 .logo.lightgrey {
     background: #F0F0F0;
-    color: #F252B7;
+    color: #8C45FF;
 }
 
 @media (max-width: 1280px) {
