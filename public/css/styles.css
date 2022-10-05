@@ -1,12 +1,11 @@
 @font-face {
-    font-family: "Jetbrains";
-    src: url("/fonts/JetBrainsMono-VariableFont_wght.ttf") format("truetype-variations");
+    font-family: "Fengardo";
+    src: url("/fonts/fengardoneue_black-webfont.woff") format("woff");
 }
 
 body {
     height: 100vh;
     background: #1E0D8A;
-    font-family: "Jetbrains";
 }
 
 .shmoergh-grid {
@@ -124,27 +123,4 @@ body {
         max-height: unset;
         height: auto;
     }
-}
-
-.concept-container {
-    background: #fff;
-    margin: 20px;
-}
-
-h1 {
-    margin: 0;
-    font-size: 28px;
-}
-
-p {
-    margin: 0;
-}
-
-img {
-    max-width: 100%;
-}
-
-.concept-container hr {
-    border: none;
-    border-bottom: 2px solid #000;
 }
