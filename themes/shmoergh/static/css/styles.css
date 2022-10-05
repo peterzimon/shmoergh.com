@@ -153,3 +153,11 @@ a {
     text-decoration: none;
     color: #000;
 }
+
+.concept-container a {
+    display: block;
+}
+
+.concept-container a:hover {
+    background: #62FFDD;
+}
