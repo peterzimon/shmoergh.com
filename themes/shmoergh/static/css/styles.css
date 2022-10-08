@@ -147,6 +147,7 @@ img {
 .concept-container hr {
     border: none;
     border-bottom: 20px solid #1E0D8A;
+    margin: 0;
 }
 
 a {
@@ -160,4 +161,10 @@ a {
 
 .concept-container a:hover {
     background: #62FFDD;
+}
+
+.concept-container blockquote {
+    border-left: 5px solid #1E0D8A;
+    padding-left: 20px;
+    margin-left: 20px;
 }
