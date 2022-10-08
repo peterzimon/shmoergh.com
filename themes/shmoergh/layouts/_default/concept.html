@@ -1,7 +1,12 @@
 {{ partial "head.html" . }}
 
+{{ if .Params.breadcrumbs }}
 <div class="concept-container">
-    <!-- <h1>Concept:{{ .Title }}</h1> -->
+    <a href="/concepts/" class="">&larr; Concepts</a>
+</div>
+{{ end }}
+
+<div class="concept-container">
     <div class="concept-content">
         {{ .Content }}
     </div>
