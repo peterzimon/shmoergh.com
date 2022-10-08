@@ -29,3 +29,11 @@ Flame-től eredő ötlet (eleve szar). Tape delay és rugós reverb konbó.
 / Swell meg asszem visszatolja a bemenetre a kimenetet (kb egy wetdry a bemenetre visszarakva)
 / A magnofej meg geciegyszeru, lényegében egy tekercs
 / Mint egy pickup
+
+### Laci szereti
+
+> nekem ez is bejön / pláne ez a weird hang
+
+### Zimo is (+ zseniális ötlet)
+
+> Nekem is! Meg kéne csinalni / amúgy ezt lehetne konbinálni egy rugós reverb-bel / fullos delay + reverb

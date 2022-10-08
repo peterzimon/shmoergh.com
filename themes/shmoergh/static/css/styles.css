@@ -131,14 +131,15 @@ body {
     margin: 20px;
 }
 
-h1, h2, h3, h4 {
-    font-variation-settings: 'wght' 220;
-}
-
 h1 {
     margin: 0;
     font-size: 28px;
     letter-spacing: -0.04em;
+    font-variation-settings: 'wght' 220;
+}
+
+h3 {
+    font-variation-settings: 'wght' 380;
 }
 
 p {
